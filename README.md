@@ -1,6 +1,6 @@
 # Elon-Jude's Web Development Project
 
-👋 Hi, I’m **Elon-Jude**! I'm currently working on a beginner-friendly web development project where I’m building a user input form using **HTML**. The goal is to practice form design, input validation, and eventually connect it to backend services or email.
+👋 Hi, I’m **Elon-Jude**! I'm currently working on aweb development project where I’m building a user input form using **HTML**. The goal is to practice form design, input validation, and eventually connect it to backend services or email.
 
 ## 👀 What I'm Working On:
 
