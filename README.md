@@ -1,48 +1,58 @@
-# Elon-Jude's Web Development Project
+Hi, I’m Jude Yankson
+About Me
 
-👋 Hi, I’m **Elon-Jude**! I'm currently working on aweb development project where I’m building a user input form using **HTML**. The goal is to practice form design, input validation, and eventually connect it to backend services or email.
+I’m a Computer Engineering student at Ghana Communication Technology University (GCTU), passionate about software development, backend systems, and hardware projects. I love turning ideas into real-life projects using code, electronics, and problem-solving skills.
+I’m curious, hands-on, and always learning. I enjoy Arduino, Raspberry Pi, and full-stack web development, and I’m constantly exploring new tech.
 
-## 👀 What I'm Working On:
+🛠️ Languages & Technologies
 
-- A full **HTML form** that includes:
-  - Text, email, and password fields
-  - Radio buttons, dropdowns, and a textarea
-- Exploring ways to handle form submissions (e.g., FormSubmit, Formspree, or PHP).
-- Open to adding basic **CSS styling** or simple **JavaScript validation**.
+Here’s what I work with regularly:
+Programming Languages:
+C & C++
+Python
+JavaScript (Node.js)
+HTML & CSS
 
-## 🌱 Learning Goals:
-- **HTML** (form creation, structure, and layout)
-- **CSS** (styling forms for a better user experience)
-- **JavaScript** (basic validation techniques)
-- **Backend services** for handling form submissions (e.g., PHP or connecting to an email service)
+Frameworks / Libraries:
+Tkinter (Python GUI)
+React.js (Frontend projects)
 
-## 💞️ Looking for:
-- Beginners who want to learn together and improve their web development skills
-- Anyone who can help with:
-  - Form validation (client-side and server-side)
-  - Backend/email integration (using services like Formspree, or PHP)
-  - UI/UX improvements to enhance form accessibility and design
-  - Hosting on platforms like Netlify, GitHub Pages, or others
+Hardware & IoT:
+Arduino (LCD, sensors, automation)
+Raspberry Pi / Raspberry Uno
 
-## 📬 How to Join:
+Other Skills:
+Backend development
+Database management
+Project-based problem solving
 
-Feel free to:
-- Fork the repo and open a pull request
-- Start a discussion or drop a comment on an issue
-- Contribute to the project and learn with me
+💻 Projects
+Some projects I’ve worked on:
+Banking System (C) – Console-based ATM program with multiple users, balance checks, and withdrawals.
+Password Vault (Python + Tkinter) – Secure local password manager with GUI.
+Arduino LCD Movement Project – Moved character ‘X’ on LCD using 4 push buttons.
+Web Forms & UI (HTML/CSS) – User input forms with validation and backend integration.
+(Check out my repositories for full code and demos!)
 
-Let's learn, build, and improve together!
+  Currently Learning
 
-## ⚡ Fun Facts:
+Advanced C++ and C concepts
+Advanced python
+Full-stack web development projects
+Machine Learning basics
 
-- I love learning new programming languages, and I'm currently diving into **C++, HTML**, and **CSS**.
-- I'm always looking for new opportunities to collaborate with others on projects like this!
+ Contact Me
+Email: yanksonjude92@gmail.com
+Phone: +233 25 698 0527
+Location: Accra, Ghana
 
----
+ Fun Facts
+Big fan of solving logic & critical thinking problems.
+Love building electronics projects and exploring IoT.
+Passionate about improving my coding and debugging skills every day.
 
-📫 **How to Reach Me**  
+🔗 **How to Reach Me**  
 Feel free to open an issue or start a discussion on this repository if you want to collaborate!
-
 ---
 
 **Author:** [Elon-Jude](https://github.com/elon-jude)
