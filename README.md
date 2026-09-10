@@ -12,6 +12,7 @@ C & C++
 Python
 JavaScript (Node.js)
 HTML & CSS
+flutter (Dart)
 
 Frameworks / Libraries:
 Tkinter (Python GUI)
@@ -40,6 +41,7 @@ Advanced C++ and C concepts
 Advanced python
 Full-stack web development projects
 Machine Learning basics
+flutter
 
  Contact Me
 Email: yanksonjude92@gmail.com
